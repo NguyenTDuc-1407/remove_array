@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\New folder\remove_array\bin\Debug\net7.0\remove_array.exe
+C:\Users\ASUS\Desktop\New folder\remove_array\bin\Debug\net7.0\remove_array.deps.json
+C:\Users\ASUS\Desktop\New folder\remove_array\bin\Debug\net7.0\remove_array.runtimeconfig.json
+C:\Users\ASUS\Desktop\New folder\remove_array\bin\Debug\net7.0\remove_array.dll
+C:\Users\ASUS\Desktop\New folder\remove_array\bin\Debug\net7.0\remove_array.pdb
+C:\Users\ASUS\Desktop\New folder\remove_array\obj\Debug\net7.0\remove_array.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\New folder\remove_array\obj\Debug\net7.0\remove_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\New folder\remove_array\obj\Debug\net7.0\remove_array.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\New folder\remove_array\obj\Debug\net7.0\remove_array.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\New folder\remove_array\obj\Debug\net7.0\remove_array.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\New folder\remove_array\obj\Debug\net7.0\remove_array.dll
+C:\Users\ASUS\Desktop\New folder\remove_array\obj\Debug\net7.0\refint\remove_array.dll
+C:\Users\ASUS\Desktop\New folder\remove_array\obj\Debug\net7.0\remove_array.pdb
+C:\Users\ASUS\Desktop\New folder\remove_array\obj\Debug\net7.0\remove_array.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\New folder\remove_array\obj\Debug\net7.0\ref\remove_array.dll
